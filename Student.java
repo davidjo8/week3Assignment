@@ -15,6 +15,7 @@ package week03;
 		          System.out.println("\t" + grade + " "); 
 		      } 
 		      System.out.println(); 
-		   } 
-		 }
+		   }// end of describe 
+		 } //end of class
 
+// yay git hub is working.
